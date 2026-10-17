@@ -24,3 +24,7 @@ After that, ask for any draft you'll send as yourself and it runs automatically.
 ## Works well with
 
 [hath-mcq](https://github.com/petemaloney/hath-mcq), the /mcq skill that makes the AI interview you before it builds anything.
+
+## License
+
+MIT. Free to use, copy, and change. See LICENSE.
